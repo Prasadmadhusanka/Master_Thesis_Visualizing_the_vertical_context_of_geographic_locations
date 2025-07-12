@@ -30,5 +30,7 @@ This folder contains experiment results of lime survey and its result summary, p
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
+## **Live Link**  🔗 [VerticalGeoVis](https://prasadmadhusanka.github.io/VerticalGeoVis/)
+
 ## **Prototype Video Demostration**
 https://github.com/user-attachments/assets/1c0997cb-18be-4aad-96db-90ba14ceb69e
